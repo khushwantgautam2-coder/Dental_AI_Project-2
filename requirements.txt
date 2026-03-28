@@ -1,6 +1,5 @@
-opencv-python-headless==4.8.0.74
-ultralytics==8.3.0
-streamlit
-pandas
+taipy
+ultralytics
+opencv-python-headless
 Pillow
 numpy<2.0.0
