@@ -72,7 +72,7 @@ if uploaded_file:
     st.header("📍 Nano Engine (v11n) Clinical View")
     
     # Run Prediction
-    res_n = model_n.predict(source=img, imgsz=640, conf=conf_thresh, augment=use_tta, device=cpu)
+    res_n = model_n.predict(source=img, imgsz=640, conf=conf_thresh, augment=use_tta, device='cpu')
     
     # Triple-View Columns
     c1, c2, c3 = st.columns(3)
