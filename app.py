@@ -113,4 +113,4 @@ if st.session_state.history:
 
 # 8. Portfolio Footer
 st.divider()
-st.caption("Dental AI Portfolio Project | DTU Bachelor of Design | Optimization: Edge-Ready (v11n)")
+st.caption("Dental AI Project | Optimization: Edge-Ready (v11n)")
