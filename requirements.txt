@@ -1,5 +1,5 @@
-taipy
+streamlit
 ultralytics
 opencv-python-headless
+pandas
 Pillow
-numpy<2.0.0
