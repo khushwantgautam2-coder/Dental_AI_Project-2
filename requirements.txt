@@ -1,5 +1,5 @@
 opencv-python-headless==4.8.0.74
-ultralytics
+ultralytics==8.3.0
 streamlit
 pandas
 Pillow
