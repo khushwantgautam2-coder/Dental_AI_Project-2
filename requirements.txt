@@ -1,8 +1,6 @@
 streamlit
 ultralytics
-opencv-python-headless
+opencv-python
 Pillow
 numpy
 torch
-
--c constraints.txt
